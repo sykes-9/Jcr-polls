@@ -165,7 +165,7 @@ form {
   font-size: 18px;
 }
 
-.questions{
+.candidates{
   align-content: center;
 }
 
@@ -236,7 +236,7 @@ form {
 
 /*Tablets and under*/
 @media(max-width: 768px){
-  #questions .card{
+  #candidates .card{
     width: 400px !important;
   }
 
